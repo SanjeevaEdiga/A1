@@ -1,4 +1,4 @@
-name: "about issue for repo"
+name: Handle issues
 on: issues
 jobs:
   info:
